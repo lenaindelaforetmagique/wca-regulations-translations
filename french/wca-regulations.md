@@ -11,7 +11,7 @@ Des efforts sont faits pour que cette traduction soit constamment à jour, elle 
 
 ### Règlement et Recommandations WCA
 Le Règlement WCA contient l'ensemble des règles qui s'appliquent lors de toutes les compétitions officielles reconnues par la World Cube Association.
-Le Règlement WCA est également complémenté par les [Recommandations WCA](guidelines:top). Le Règlement devrait être considéré comme un document complet, mais les Recommandations contiennent des informations et explications additionnelles.
+Le Règlement WCA est également complémenté par les [Recommandations WCA](guidelines:top). Le Règlement devrait être considéré comme un document complet, mais les Recommandations contiennent des informations et explications complémentaires.
 
 ### Formulation
 L'utilisation du genre masculin a été adoptée afin de faciliter la lecture. Elle n'a aucune intention discriminatoire.
@@ -43,30 +43,30 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
 
 - 1a) Une compétition doit comprendre un Délégué WCA et une équipe organisatrice (composée d'une ou plusieurs personnes) avec les officiels suivant : des juges, des mélangeurs, et des teneurs de score.
 - 1b) L'équipe organisatrice d'une compétition est responsable de l'organisation avant, pendant, et après la compétition.
-- 1c) Le Délégué WCA peut déléguer ses responsabilités aux autres membres de l'équipe organisatrice, mais est responsable de la manière dont celles ci sont assurées. Le Délégué WCA d'une compétition est en charge de :
+- 1c) Le Délégué WCA peut déléguer ses responsabilités aux autres membres de l'équipe organisatrice, mais est responsable de la manière dont celles-ci sont assurées. Le Délégué WCA d'une compétition est en charge de :
     - 1c1) Rendre compte au Bureau de la WCA du respect du Règlement au cours de la compétition, du déroulement général de la compétition, et des incidents survenus. Le compte-rendu doit être soumis au Bureau de la WCA avant la fin de la semaine suivant la fin de la compétition.
-    - 1c3) Envoyer les résultats de la compétition à l'équipe des résultats de la WCA, au plus tard une semaine après la fin de la compétition.
+    - 1c3) Envoyer les résultats de la compétition à l'équipe des résultats de la WCA, avant la fin de la semaine suivant la fin de la compétition.
         - 1c3a) Toutes les séquences de mélange utilisées lors d'une compétition doivent être envoyées avec les résultats de cette compétition.
         - 1c3b) Les séquences de mélanges doivent être annotées avec les épreuves, les tours, et les groupes pour lesquels elles ont été utilisées.
     - 1c4) Envoyer les corrections aux résultats de la compétition à l'Équipe des Résultats de la WCA.
     - 1c5) Conseiller les autres officiels lorsque c'est nécessaire.
     - 1c6) Approuver toutes les épreuves et tous les formats d'épreuves d'une compétition, avant que la compétition ne débute, et au cours de celle-ci quand il est nécessaire de procéder à des changements.
-    - 1c7) Décider de la disqualification d'un compétiteur de la compétition.
-    - 1c8) Fournir les mélanges.
-    - 1c9) Prendre les décisions concernant les changements dans le planning des épreuves. Dans de tels cas, une annonce doit être faite à tous les compétiteurs.
+    - 1c7) Décider de la disqualification d'un compétiteur au cours de la compétition.
+    - 1c8) Fournir les séquences de mélange.
+    - 1c9) Prendre les décisions concernant les changements dans le planning des épreuves. Dans de tels cas, une annonce claire doit être faite à tous les compétiteurs.
     - 1c10) Rendre disponible une copie du Règlement WCA pendant la compétition.
 - 1e) Chaque épreuve doit avoir un ou plusieurs juges.
     - 1e1) Un juge d'une épreuve est en charge de l'exécution des procédures relatives à l'épreuve.
         - 1e1a) Un juge peut juger plusieurs compétiteurs simultanément, à la discrétion du Délégué WCA, tant que le juge est capable de s'assurer que tout le Règlement WCA est respecté à tout moment.
     - 1e2) Chaque compétiteur doit être disponible pour juger. Si l'équipe organisatrice exprime le besoin d'un compétiteur pour juger, celui-ci ne peut être exempté que pour une raison légitime (par exemple : ne pas être à l'aise avec un casse-tête), à la discrétion du Délégué WCA. Pénalité : Disqualification de la compétition (voir : [Règle 2k](regulations:regulation:2k)).
 - 1f) Chaque épreuve doit avoir un ou plusieurs mélangeurs. Exception : Résolution optimisée.
-    - 1f1) Un mélangeur applique des séquence de mélanges afin de préparer des casse-tête pour des essais.
+    - 1f1) Un mélangeur applique des séquences de mélanges afin de préparer des casse-tête pour des essais.
     - 1f2) Chaque compétiteur doit être disponible pour mélanger. Si l'équipe organisatrice exprime le besoin d'un compétiteur pour mélanger, celui-ci ne peut être exempté que pour une raison légitime (par exemple : ne pas être à l'aise avec la notation de mélange), à la discrétion du Délégué WCA. Pénalité : disqualification de la compétition (voir : [Règle 2k](regulations:regulation:2k)).
 - 1g) Chaque épreuve doit avoir un ou plusieurs teneurs de scores.
     - 1g1) Un teneur de score est en charge de l'enregistrement des résultats.
     - 1g2) Les modifications de résultats sur une feuille de score ne sont permises qu'à la discrétion du Délégué WCA.
 - 1h) Les compétiteurs d'un même tour d'une épreuve peuvent être répartis en groupes.
-    - 1h1) Les juges et les mélangeurs d'un tour donné ne devraient pas juger ou mélanger au sein de leur groupe avant d'avoir terminé tous leurs essais pour le tour. Ils peuvent juger ou mélanger au sein de leur groupe à la discrétion du Délégué WCA, mais l'équipe organisatrice doit s'assurer que les juges et les mélangeurs ne puissent pas voir les mélanges pour les essais qu'ils n'ont pas encore effectués.
+    - 1h1) Les juges et les mélangeurs d'un tour donné ne devraient pas juger ou mélanger au sein de leur groupe avant d'avoir terminé tous leurs essais pour le tour. Ils peuvent juger ou mélanger au sein de leur groupe à la discrétion du Délégué WCA, mais l'équipe organisatrice doit s'assurer que les juges et les mélangeurs ne peuvent pas voir les mélanges pour les essais qu'ils n'ont pas encore effectués.
 - 1j) Tous les officiels peuvent participer à la compétition.
 - 1k) Les officiels peuvent cumuler plusieurs rôles (par exemple : membre de l'équipe organisatrice, Délégué WCA, juge, teneur de score, mélangeur).
 
@@ -79,43 +79,43 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
     - 2a3) N'est pas suspendue par le Bureau de la WCA.
 - 2b) Les compétiteurs âgés de moins de 18 ans doivent préalablement obtenir de leurs parents ou de leur tuteur légal la permission de s'inscrire et de participer.
 - 2c) Les compétiteurs s'inscrivent en fournissant toutes les informations dont l'équipe organisatrice à besoin (dont : nom complet, pays, date de naissance, sexe, coordonnées, épreuves choisies).
-    - 2c1) Un compétiteur ne peut pas participer sans une inscription complète, comme définie par l'équipe organisatrice.
-- 2d) Le nom complet, le pays, le sexe, et les résultats d'un compétiteur sont considérées comme des informations publiques. Toutes les autres informations personnelles sont considérées comme confidentielles, et ne doivent pas être divulguées en dehors de l'équipe organisatrice sans l'accord du compétiteur.
-- 2e) Les compétiteurs doivent représenter un pays dont ils ont la nationalité. Le Délégué WCA devrait vérifier la nationalité représentée au moyen d'un document officiel (par exemple : carte d'identité) à leur première compétition. Si un compétiteur n'est pas capable de prouver la nationalité sous laquelle il s'est inscrit, ce compétiteur peut être disqualifié rétroactivement et/ou suspendu, à la discrétion du Bureau de la WCA.
+    - 2c1) Un compétiteur ne peut pas participer sans une inscription complète, telle que définie par l'équipe organisatrice.
+- 2d) Le nom complet, le pays, le sexe, et les résultats d'un compétiteur sont considérées comme des informations publiques. Toute autre information personnelle est considérée comme confidentielle, et ne doit pas être divulguée en dehors de l'équipe organisatrice sans l'accord du compétiteur.
+- 2e) Les compétiteurs doivent représenter un pays dont ils ont la nationalité. Le Délégué WCA devrait vérifier la nationalité représentée au moyen d'un document officiel (par exemple : un passeport) à leur première compétition. Si un compétiteur n'est pas capable de prouver la nationalité avec laquelle il s'est inscrit, ce compétiteur peut être disqualifié rétroactivement et/ou suspendu, à la discrétion du Bureau de la WCA.
     - 2e1) La liste des pays que l'on peut représenter est définie par la [Liste des Pays Reconnus de la WCA](https://www.worldcubeassociation.org/regulations/countries/).
-    - 2e2) Les compétiteurs ayant plusieurs nationalités peuvent changer le pays qu'ils représentent, pour leur première compétition d'une année civile donnée.
+    - 2e2) Les compétiteurs dont la nationalité a changé peuvent changer le pays qu'ils représentent à leur première compétition d'une année civile.
     - 2e3) Les compétiteurs n'ayant pas de nationalité peuvent participer en tant qu'"Apatride".
 - 2f) Les compétiteur doivent respecter les règlements du lieu et se conduire de manière correcte.
 - 2g) Les compétiteurs doivent rester calmes à l'intérieur de l'espace de compétition. Les discussions sont autorisées, mais elles doivent être d'un volume sonore raisonnable, et ne pas se dérouler à proximité des personnes en train de concourir.
     - 2g3) Les compétiteurs dans la Zone des Compétiteurs ne doivent pas communiquer entre eux à propos des mélanges des casse-tête du tour en cours. Pénalité : disqualification du compétiteur de l'épreuve en cours, à la discrétion du Délégué WCA.
 - 2h) Les compétiteurs doivent être entièrement habillés sur le lieu de la compétition. À la discrétion du Délégué WCA, des compétiteurs peuvent être disqualifiés pour vêtements inappropriés.
-- 2i) Pendant qu'ils concourent, les compétiteurs ne doivent pas utiliser d'équipement sonore, ni d'autres équipements électroniques (tels que téléphones portables, lecteurs MP3, dictaphones ou éclairages supplémentaires).
-    - 2i1) Les compétiteurs peuvent utiliser certains dispositifs non électroniques qui ne lui donne pas un avantage déloyal, à la discrétion du Délégué WCA. Cela inclut :
-        - 2i1a) Aides physiques et médicales portées par le compétiteur (telles que lunettes, attelle, aide auditive). Exception à la [règle 2i](regulations:regulation:2i) : l'aide médicale peut être électronique si le compétiteur n'a pas d'alternative non-électronique confortable (par exemple si le compétiteur a une aide auditive ou un pacemaker).
-        - 2i1b) Les boules Quies et cache-oreilles (mais pas les casques anti-bruit électroniques).
-    - 2i2) Les compétiteurs peuvent utiliser des caméras aux emplacements utilisés pour la résolution, à la discrétion du Délégué WCA. Les restrictions suivantes s'appliquent du début de l'essai à l'arrêt de la résolution. Pénalité pour ne pas respecter une restriction : disqualification de l'essai (DNF).
+- 2i) Pendant qu'ils concourent, les compétiteurs ne doivent pas utiliser d'équipements électroniques ou sonores (par exemple : téléphones portables, lecteurs MP3, dictaphones, éclairage supplémentaire).
+    - 2i1) Les compétiteurs peuvent utiliser certains dispositifs non-électroniques qui ne leur donnent pas un avantage déloyal, à la discrétion du Délégué WCA. Cela inclut :
+        - 2i1a) Aides physiques et médicales portées par le compétiteur (par exemple : lunettes, protège-poignet). Exception à la [règle 2i](regulations:regulation:2i) : les aides médicales peuvent être électroniques si le compétiteur n'a pas d'alternative non-électronique confortable (par exemple si le compétiteur a une aide auditive ou un pacemaker).
+        - 2i1b) Les bouchons d'oreilles et cache-oreilles (mais pas les casques anti-bruit électroniques).
+    - 2i2) Les compétiteurs peuvent utiliser des caméras aux emplacements utilisés pour la résolution à la discrétion du Délégué WCA, mais les restrictions suivantes s'appliquent du début de l'essai à l'arrêt de la résolution. Pénalité pour ne pas respecter une restriction : disqualification de l'essai (DNF).
         - 2i2a) Chaque écran de caméra doit être vierge ou hors de la vue du compétiteur (voir : [règle A5b](regulations:regulation:A5b)).
-        - 2i2b) Le compétiteur ne doit pas interagir avec une caméra allumée (par exemple la tenir, la porter, la manipuler). Exception : le compétiteur peut porter une caméra sur sa tête, tant qu'elle est hors de sa vue, et qu'il n'interagit pas avec elle (hormis le fait de la porter).
+        - 2i2b) Le compétiteur ne doit pas interagir avec une caméra allumée (par exemple : la tenir, la porter, la manipuler). Exception : le compétiteur peut porter une caméra sur sa tête, tant qu'elle est hors de sa vue, et qu'il n'interagit pas avec elle (hormis le fait de la porter).
 - 2j) Le Délégué WCA peut disqualifier un compétiteur d'une épreuve particulière.
     - 2j1) Si un compétiteur est disqualifié d'une épreuve, quelle qu'en soit la raison, il ne peut plus effectuer d'autres essais dans l'épreuve.
     - 2j2) Si un compétiteur est disqualifié au cours d'une épreuve, ses précédents résultats restent valides. Exception : triche ou escroquerie (voir : [Règle 2k2a](regulations:regulation:2k2a)).
-- 2k) Le compétiteur peut être disqualifié d'une ou plusieurs épreuves, à la discrétion du Délégué WCA, si celui-ci :
-    - 2k1) Ne se présente pas à temps pour son enregistrement à la compétition.
+- 2k) Un compétiteur peut être disqualifié d'une ou plusieurs épreuves, à la discrétion du Délégué WCA, si celui-ci :
+    - 2k1) Ne se présente pas à temps pour son enregistrement ou son inscription à la compétition.
     - 2k2) Est suspecté de tricherie ou d'escroquer les officiels au cours de la compétition.
         - 2k2a) Le Délégué WCA peut disqualifier n'importe quel résultat suspect.
-    - 2k3) Se comporte de façon illégale, violente, indécente ou endommage intentionnellement les installations du lieu de la compétition ou les biens personnels de quiconque pendant la compétition.
-    - 2k4) Perturbe la compétition, ou distrait les compétiteurs pendant la compétition.
+    - 2k3) Se comporte de façon illégale, violente ou indécente, ou endommage intentionnellement les installations du lieu de la compétition ou des biens personnels pendant la compétition.
+    - 2k4) Interagit ou distrait les compétiteurs pendant la compétition.
     - 2k5) Refuse de respecter le Règlement WCA pendant la compétition.
-- 2l) Un compétiteur peut être disqualifié immédiatement ou après un avertissement, selon la nature et la gravité de l'infraction.
-    - 2l1) Suite à une disqualification, un compétiteur ne peut prétendre à aucun remboursement d'une quelconque dépense qu'il aurait engagée pour participer à la compétition.
+- 2l) Un compétiteur peut être disqualifié immédiatement, ou après un avertissement, selon la nature et la gravité de l'infraction.
+    - 2l1) Un compétiteur disqualifié ne peut prétendre à aucun remboursement d'une quelconque dépense qu'il aurait engagée pour participer à la compétition.
 - 2n) Les compétiteurs peuvent adresser une contestation verbale au Délégué WCA.
-    - 2n1) Les contestations sont uniquement possibles pendant la compétition, dans les trente minutes suivant la décision contestée, et avant le début du tour d'épreuve suivant.
-    - 2n2) La contestation doit être traitée par le Délégué WCA avant le début du tour d'épreuve suivant.
+    - 2n1) Les contestations sont uniquement possibles pendant la compétition, dans les trente minutes suivant la décision contestée, et avant le début de tout nouveau tour de l'épreuve concernée.
+    - 2n2) La contestation doit être traitée par le Délégué WCA avant le début du tour suivant de l'épreuve.
     - 2n3) Le compétiteur doit accepter la décision finale du Délégué WCA. Pénalité : disqualification du compétiteur de la compétition.
 - 2s) Les compétiteurs ayant un handicap leur empêchant de respecter une ou plusieurs règles du Règlement WCA peuvent demander des aménagements spéciaux au Délégué WCA. Les compétiteurs demandant de tels aménagements devraient contacter l'équipe organisatrice et le Délégué WCA au moins deux semaines avant la compétition.
 - 2t) Chaque compétiteur doit comprendre et se familiariser avec le Règlement WCA avant la compétition.
-- 2u) Les compétiteurs doivent être présents et prêt à concourir quand ils sont appelé à participer à une épreuve. Pénalité : disqualification de l'épreuve.
-    - 2u1) Exception : un refus de faire l'essai (DNS) peut être considéré si un compétiteur n'est pas présent à l'heure pour un essai individuel prévu (par exemple un essai de résolution optimisée, un essai de résolution multiple à l'aveugle), à la discrétion du Délégué WCA.
+- 2u) Les compétiteurs doivent être présents et prêts à concourir quand ils sont appelés à participer à une épreuve. Pénalité : disqualification de l'épreuve.
+    - 2u1) Exception : l'absence d'un compétiteur à l'heure d'un essai individuel (par exemple : un essai de résolution optimisée, un essai de résolution multiple à l'aveugle) peut être considérée comme un refus de faire l'essai (DNS), à la discrétion du Délégué WCA.
 
 
 ## <article-3><puzzles><puzzles> Article 3 : Casse-tête
