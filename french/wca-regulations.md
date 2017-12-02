@@ -60,7 +60,7 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
         - 1e1a) Un juge peut juger plusieurs compétiteurs simultanément, à la discrétion du Délégué WCA, tant que le juge est capable de s'assurer que tout le Règlement WCA est respecté à tout moment.
     - 1e2) Chaque compétiteur doit être disponible pour juger. Si l'équipe organisatrice exprime le besoin d'un compétiteur pour juger, celui-ci ne peut être exempté que pour une raison légitime (par exemple : ne pas être à l'aise avec un casse-tête), à la discrétion du Délégué WCA. Pénalité : Disqualification de la compétition (voir : [Règle 2k](regulations:regulation:2k)).
 - 1f) Chaque épreuve doit avoir un ou plusieurs mélangeurs. Exception : Résolution optimisée.
-    - 1f1) Un mélangeur applique des séquences de mélanges afin de préparer des casse-tête pour des essais.
+    - 1f1) Un mélangeur applique des séquences de mélanges afin de préparer des casse-têtes pour des essais.
     - 1f2) Chaque compétiteur doit être disponible pour mélanger. Si l'équipe organisatrice exprime le besoin d'un compétiteur pour mélanger, celui-ci ne peut être exempté que pour une raison légitime (par exemple : ne pas être à l'aise avec la notation de mélange), à la discrétion du Délégué WCA. Pénalité : disqualification de la compétition (voir : [Règle 2k](regulations:regulation:2k)).
 - 1g) Chaque épreuve doit avoir un ou plusieurs teneurs de scores.
     - 1g1) Un teneur de score est en charge de l'enregistrement des résultats.
@@ -87,11 +87,11 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
     - 2e3) Les compétiteurs n'ayant pas de nationalité peuvent participer en tant qu'"Apatride".
 - 2f) Les compétiteur doivent respecter les règlements du lieu et se conduire de manière correcte.
 - 2g) Les compétiteurs doivent rester calmes à l'intérieur de l'espace de compétition. Les discussions sont autorisées, mais elles doivent être d'un volume sonore raisonnable, et ne pas se dérouler à proximité des personnes en train de concourir.
-    - 2g3) Les compétiteurs dans la Zone des Compétiteurs ne doivent pas communiquer entre eux à propos des mélanges des casse-tête du tour en cours. Pénalité : disqualification du compétiteur de l'épreuve en cours, à la discrétion du Délégué WCA.
+    - 2g3) Les compétiteurs dans la Zone des Compétiteurs ne doivent pas communiquer entre eux à propos des mélanges des casse-têtes du tour en cours. Pénalité : disqualification du compétiteur de l'épreuve en cours, à la discrétion du Délégué WCA.
 - 2h) Les compétiteurs doivent être entièrement habillés sur le lieu de la compétition. À la discrétion du Délégué WCA, des compétiteurs peuvent être disqualifiés pour vêtements inappropriés.
 - 2i) Pendant qu'ils concourent, les compétiteurs ne doivent pas utiliser d'équipements électroniques ou sonores (par exemple : téléphones portables, lecteurs MP3, dictaphones, éclairage supplémentaire).
-    - 2i1) Les compétiteurs peuvent utiliser certains dispositifs non-électroniques qui ne leur donnent pas un avantage déloyal, à la discrétion du Délégué WCA. Cela inclut :
-        - 2i1a) Aides physiques et médicales portées par le compétiteur (par exemple : lunettes, protège-poignet). Exception à la [règle 2i](regulations:regulation:2i) : les aides médicales peuvent être électroniques si le compétiteur n'a pas d'alternative non-électronique confortable (par exemple si le compétiteur a une aide auditive ou un pacemaker).
+    - 2i1) Les compétiteurs peuvent utiliser certains dispositifs non électroniques qui ne leur donnent pas un avantage déloyal, à la discrétion du Délégué WCA. Cela inclut :
+        - 2i1a) Aides physiques et médicales portées par le compétiteur (par exemple : lunettes, protège-poignet). Exception à la [règle 2i](regulations:regulation:2i) : les aides médicales peuvent être électroniques si le compétiteur n'a pas d'alternative non électronique confortable (par exemple si le compétiteur a une aide auditive ou un pacemaker).
         - 2i1b) Les bouchons d'oreilles et cache-oreilles (mais pas les casques anti-bruit électroniques).
     - 2i2) Les compétiteurs peuvent utiliser des caméras aux emplacements utilisés pour la résolution à la discrétion du Délégué WCA, mais les restrictions suivantes s'appliquent du début de l'essai à l'arrêt de la résolution. Pénalité pour ne pas respecter une restriction : disqualification de l'essai (DNF).
         - 2i2a) Chaque écran de caméra doit être vierge ou hors de la vue du compétiteur (voir : [règle A5b](regulations:regulation:A5b)).
@@ -118,45 +118,45 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
     - 2u1) Exception : l'absence d'un compétiteur à l'heure d'un essai individuel (par exemple : un essai de résolution optimisée, un essai de résolution multiple à l'aveugle) peut être considérée comme un refus de faire l'essai (DNS), à la discrétion du Délégué WCA.
 
 
-## <article-3><puzzles><puzzles> Article 3 : Casse-tête
+## <article-3><puzzles><puzzles> Article 3 : Casse-têtes
 
-- 3a) Les compétiteurs doivent utiliser leurs propres casse-tête pour la compétition.
-    - 3a1) Les compétiteurs doivent être présents et prêts à concourir lorsqu'ils sont appelés pour participer à une épreuve (voir : [règle 2u](regulations:regulation:2u)).
-    - 3a2) Les casse-tête doivent être complètement fonctionnels, de manière à ce qu'ils soient mélangeables normalement.
-    - 3a3) Les casse-tête polyédriques doivent utiliser une configuration de couleur possédant une couleur unique par face dans l'état résolu. Les différentes variations d'un même casse-tête doivent avoir des caractéristiques identiques au casse-tête d'origine (mouvements possibles, états atteignables, résolution).
-- 3d) Les casse-tête doivent avoir des parties colorées, qui définissent le schéma de couleur du casse-tête, et qui doivent faire partie d'une unique catégorie parmi les suivantes : étiquettes colorées, tuiles colorées, plastique coloré, ou couleurs imprimées/peintes. Toutes les parties colorées d'un casse tête doivent être faites de matériau similaire.
+- 3a) Les compétiteurs doivent utiliser leurs propres casse-têtes pour la compétition.
+    - 3a1) Les compétiteurs doivent se tenir prêts à soumettre leurs casse-têtes lorsqu'ils sont appelés pour participer à une épreuve (voir : [règle 2u](regulations:regulation:2u)).
+    - 3a2) Les casse-têtes doivent être complètement fonctionnels, de manière à ce qu'ils soient mélangeables normalement.
+    - 3a3) Les casse-têtes polyédriques doivent utiliser une configuration de couleur possédant une couleur unique par face dans l'état résolu. Les différentes variations d'un même casse-tête doivent avoir des caractéristiques identiques au casse-tête d'origine (mouvements possibles, états atteignables, résolution).
+- 3d) Les casse-têtes doivent avoir des parties colorées, qui définissent le schéma de couleur du casse-tête, et qui doivent faire partie d'une unique catégorie parmi les suivantes : étiquettes colorées, tuiles colorées, plastique coloré, ou couleurs imprimées/peintes. Toutes les parties colorées d'un casse tête doivent être faites de matériau similaire.
     - 3d1) Pour les compétiteurs souffrant d'un handicap visual médicalement documenté, les exceptions suivantes s'appliquent :
         - 3d1a) Les compétiteurs aveugles peuvent utiliser des casse-têtes ayant des textures différentes sur chaque face. Chaque face devrait avoir une couleur unique pour faciliter le travail des juges et des mélangeurs.
-        - 3d1b) Les compétiteurs daltoniens qui ne peuvent différencier certaines couleurs peuvent utiliser des parties colorées avec des motifs, si cela a été approuvés conformément à la [règle 2s](regulations:regulation:2s). Les motifs peuvent être directement sur les étiquettes ou dessinés.
+        - 3d1b) Les compétiteurs daltoniens qui ne peuvent différencier certaines couleurs peuvent utiliser des parties colorées avec des motifs, si cela a été approuvé conformément à la [règle 2s](regulations:regulation:2s). Les motifs peuvent provenir directement des étiquettes ou être dessinés.
     - 3d2) Les couleurs des parties colorées doivent être monochromes pour une face donnée. Les couleurs utilisées doivent être facilement distinguables entre elles.
-    - 3d3) Si les parties colorées sont des tuiles ou des étiquettes, elles ne doivent pas dépasser 1.5mm d'épaisseur. Exception : les tuiles de Megaminx peuvent être légèrement plus épaisses, à la discrétion du Délégué WCA.
-- 3h) Les modifications qui améliorent le concept basique du casse-tête ne sont pas autorisées. Les casse-tête modifiés sont autorisés seulement si ses modifications ne rendent pas d'informations supplémentaires disponibles (tel que l'emplacement des pièces) par rapport à la version originale du casse-tête.
-    - 3h1) Les casse-tête bombés ne sont pas autorisés. Exception : les cubes 7x7x7 bombés sont autorisés.
-    - 3h2) Les casse-tête dont les parties colorées sont visibles à l'intérieur de celui ci sont autorisés (par exemple les casse-têtes "stickerless"). Cela n'inclue pas les casse-têtes suivant :
+    - 3d3) Si les parties colorées sont des tuiles ou des étiquettes, leur épaisseur ne doit pas dépasser 1.5mm. Exception : les tuiles de Megaminx peuvent être légèrement plus épaisses, à la discrétion du Délégué WCA.
+- 3h) Les modifications qui améliorent le concept initial du casse-tête ne sont pas autorisées. Les casse-têtes modifiés sont autorisés seulement si ces modifications ne rendent pas une information supplémentaire disponible (exemple : orientation ou identification des pièces) par rapport à la version originale du casse-tête.
+    - 3h1) Les casse-têtes bombés ne sont pas autorisés. Exception : les cubes 7x7x7 bombés sont autorisés.
+    - 3h2) Les casse-têtes dont les parties colorées sont visibles à l'intérieur de celui-ci sont autorisés (par exemple les casse-têtes "stickerless"). Cela n'inclut pas les casse-têtes suivant :
         - 3h2a) Les casse-têtes avec des pièces transparentes. Exception : une étiquette recouvrante (voir : [règle 3l](regulations:regulation:3l)).
     - 3h3) Aucune modification du casse-tête dégradant les performances d'un compétiteur ne peut justifier un essai supplémentaire.
     - 3h4) Pour le Clock, les images internes personnalisées sont autorisées sous réserve d'avoir la même taille et la même forme que les images originales, à la discrétion du Délégué WCA. Ces images doivent avoir une position "midi" clairement identifiée, située au même endroit que sur les images originales.
-- 3j) Les casse-tête doivent être propres, et ne doivent pas avoir de marquages, de pièces surélevées, de défaut, ou d'autres détails qui permettent d'aider à distinguer deux pièces entre elles. Exception : un logo (voir la [règle 3l](regulations:regulation:3l)).
-    - 3j1) Les casse-tête peuvent être relativement usés, à la discrétion du Délégué WCA.
+- 3j) Les casse-têtes doivent être propres, et ne doivent pas avoir de marquages, de pièces surélevées, de défaut, ou d'autres détails qui permettent d'aider à distinguer deux pièces entre elles. Exception : un logo (voir la [règle 3l](regulations:regulation:3l)).
+    - 3j1) Les casse-têtes peuvent être relativement usés, à la discrétion du Délégué WCA.
     - 3j2) Définition : deux pièces sont similaires si elles sont de formes identiques et de tailles identiques, ou si elles sont de formes symétriques et de tailles identiques.
     - 3j3) Les parties ondulées ou avec des textures permettant de déterminer l'orientation d'une pièce au toucher ne sont pas autorisées pour les épreuves à l'aveugle.
-- 3k) Les casse-tête doivent être approuvés par le Délégué WCA avant leurs utilisation en compétition.
-- 3l) Un casse-tête peut avoir un logo sur une partie colorée, mais si c'est le cas il doit avoir au plus une pièce colorée avec un logo.
-    - 3l1) Le logo doit être placé sur une des pièces centrales. Exceptions pour les casse-tête n'ayant pas de pièce centrale :
+- 3k) Les casse-têtes doivent être approuvés par le Délégué WCA avant leur utilisation en compétition.
+- 3l) Un casse-tête peut avoir un logo sur une partie colorée. Si tel est le cas, il doit avoir au plus une pièce colorée avec un logo.
+    - 3l1) Le logo doit être placé sur une des pièces centrales. Exceptions pour les casse-têtes n'ayant pas de pièce centrale :
         - 3l1a) Pour le Pyraminx et le 2xx2, le logo peut être sur n'importe quelle pièce.
         - 3l1b) Pour le Square-1, le logo doit être placé sur l'une des pièce de la tranche du milieu.
     - 3l2) Le logo peut être en relief, gravé, ou être une étiquette recouvrante. Exception : On ne doit pas pouvoir distinguer le logo au toucher pour les épreuves à l'aveugle (Pas de logo en relief, gravé, ou d'étiquette recouvrante).
-- 3m) Toutes les marques de casse-tête et de pièce de casse-tête sont autorisées, dès lors que le casse-tête est en accord avec le Règlement WCA.
+- 3m) Toutes les marques de casse-têtes et de pièces de casse-têtes sont autorisées, dès lors que les casse-têtes sont en accord avec le Règlement WCA.
 
 
 ## <article-4><scrambling><scrambling> Article 4 : Mélanges
 
-- 4a) Un mélangeur applique les séquences de mélange aux casse-tête.
-- 4b) Les casse-tête doivent être mélangés en utilisant des séquences de mélange aléatoires générées par ordinateur.
+- 4a) Un mélangeur applique les séquences de mélange aux casse-têtes.
+- 4b) Les casse-têtes doivent être mélangés en utilisant des séquences de mélange aléatoires générées par ordinateur.
     - 4b1) Les séquences de mélange générées ne doivent pas être observées avant la compétition, et ne doivent pas être sélectionnées ou filtrées de quelque manière que ce soit par le Délégué WCA.
     - 4b2) Les séquences de mélange pour une épreuve ne doivent être accessibles qu'au Délégué WCA et aux mélangeurs pour l'épreuve, jusqu'à la fin du tour. Exception : pour la résolution optimisée, tous les compétiteurs obtiennent la séquence de mélange pendant le tour (voir l'[Article E](regulations:article:E)).
     - 4b3) Caractéristique du programme utilisé pour les mélanges : une séquence de mélange officielle doit permettre d'atteindre une position aléatoire parmi celles nécessitant au moins 2 mouvements pour être résolues (chaque état est équiprobable). Les règles additionnelles suivantes s'appliquent :
-        - 4b3a) Pour les épreuves à l'aveugle, la séquence de mélange doit orienter aléatoirement le casse-tête (Chaque orientation est équiprobable).
+        - 4b3a) Pour les épreuves à l'aveugle, la séquence de mélange doit orienter aléatoirement le casse-tête (chaque orientation est équiprobable).
         - 4b3b) Cube 2x2x2 : la position aléatoire doit nécessiter au moins 4 mouvements pour être résolue.
         - 4b3c) Skewb : la position aléatoire doit nécessiter au moins 7 mouvements pour être résolue.
         - 4b3d) Square-1 : la position aléatoire doit nécessiter au moins 11 mouvements pour être résolue.
@@ -164,7 +164,7 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
         - 4b3f) Pyraminx : la position aléatoire doit nécessiter au moins 6 mouvements pour être résolue.
     - 4b4) Chaque séquence de mélange devrait être utilisée pendant un intervalle de temps d'au maximum 2 heures. Cet intervalle commence quand la séquence de mélange est appliquée pour la première fois.
 - 4d) Orientation lors des mélanges :
-    - 4d1) Les casse-tête NxNxN et le Megaminx sont mélangés en commençant avec la face blanche au-dessus (ou la face la plus claire si il n'y en a pas) et la face verte devant (ou la face adjacente la plus sombre s'il n'y en a pas).
+    - 4d1) Les casse-têtes NxNxN et le Megaminx sont mélangés en commençant avec la face blanche au-dessus (ou la face la plus claire si il n'y en a pas) et la face verte devant (ou la face adjacente la plus sombre s'il n'y en a pas).
     - 4d2) Le Pyraminx est mélangé en commençant avec la face jaune en dessous (ou la face la plus claire si il n'y en a pas) et la face verte devant (ou la face adjacente la plus sombre s'il n'y en a pas).
     - 4d3) Le Square-1 est mélangé en commençant avec la face la plus sombre devant (à choisir parmi les deux orientations de mélange possibles).
     - 4d4) Le Clock est mélangé en commençant avec n'importe quel côté devant, et la position "midi" en haut.
@@ -188,15 +188,15 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
     - 5b5) Si, à la fin de l'essai, certaines pièces du casse-tête sont détachées ou ne sont pas complètement attachées, les règles suivantes s'appliquent :
         - 5b5a) Si une ou plusieurs pièces sans facette colorée sont affectées, le casse-tête est considéré comme étant résolu.
         - 5b5b) Si une pièce avec une facette colorée est affectée, le casse-tête est considéré comme étant résolu.
-        - 5b5c) Si plusieurs pièces avec une facette colorée sont affectées, le casse-tête n'est pas considéré comme étant résolu (DNF).
-        - 5b5d) Si une ou plusieurs pièces avec plus d'une facette colorée sont affectées, le casse-tête n'est pas considéré comme étant résolu (DNF).
-        - 5b5e) Les règles [5b5c](regulations:regulation:5b5c) et [5b5d](regulations:regulation:5b5d) remplacent les règles [5b5a](regulations:regulation:5b5a) et [5b5b](regulations:regulation:5b5b).
+        - 5b5c) Si plusieurs pièces avec une facette colorée sont affectées, le casse-tête est considéré comme étant non résolu (DNF).
+        - 5b5d) Si une ou plusieurs pièces avec plus d'une facette colorée sont affectées, le casse-tête est considéré comme étant non résolu (DNF).
+        - 5b5e) Les règles [5b5c](regulations:regulation:5b5c) et [5b5d](regulations:regulation:5b5d) prévalent sur les règles [5b5a](regulations:regulation:5b5a) et [5b5b](regulations:regulation:5b5b).
 
 
 ## <article-7><environment><environment> Article 7 : Environnement
 
-- 7b) Le public doit rester à au moins 1,50 mètres des tables utilisées pour les résolutions lorsqu'elles sont occupées.
-- 7c) L'éclairage de l'espace de compétition réclame une attention particulière. La lumière devrait être blanche de manière à ne pas troubler la reconnaissance des couleurs sur les casse-tête.
+- 7b) Les spectateurs doivent rester à au moins 1,50 mètre des tables utilisées pour les résolutions lorsqu'elles sont occupées.
+- 7c) L'éclairage de l'espace de compétition réclame une attention particulière. La lumière devrait être blanche de manière à ne pas troubler la reconnaissance des couleurs sur les casse-têtes.
 - 7e) L'espace de compétition doit être non-fumeur.
 - 7f) Emplacement utilisé pour la résolution :
     - 7f1) Définitions :
@@ -225,17 +225,17 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
 
 ## <article-9><events><events> Article 9 : Épreuves
 
-- 9a) La WCA régit les compétitions pour les casse-tête suivants :
-    - 9a1) Tous les casse-tête estampillés Rubik.
-    - 9a2) Tous les autres casse-tête manipulés en tournant leurs faces ("twisty puzzles").
-- 9b) Les casse-tête officiels et les formats des épreuves officielles de la WCA sont :
-    - 9b1) Rubik's Cube, Cube 2x2x2, Cube 4x4x4, Cube 5x5x5, Clock, Megaminx, Pyraminx, Square-1, Skewb, Rubik's Cube : à une main.
+- 9a) La WCA régit les compétitions pour les casse-têtes suivants :
+    - 9a1) Tous les casse-têtes estampillés Rubik.
+    - 9a2) Tous les autres casse-têtes manipulés en tournant leurs faces ("twisty puzzles").
+- 9b) Les casse-têtes officiels et les formats des épreuves officielles de la WCA sont :
+    - 9b1) Rubik's Cube, Cube 2x2x2, Cube 4x4x4, Cube 5x5x5, Clock, Megaminx, Pyraminx, Square-1, Skewb, et Rubik's Cube : à une main.
         - 9b1a) Les formats des tours pour ces épreuves sont : "Meilleur des X" (où X peut être 1, 2, ou 3), et "Moyenne élaguée des 5".
     - 9b2) Rubik's Cube : avec les pieds, Rubik's Cube : résolution optimisée, Cube 6x6x6, et Cube 7x7x7.
         - 9b2a) Les formats des tours pour ces épreuves sont : "Meilleur des X" (où X est 1 ou 2) et "Moyenne des 3".
     - 9b3) Rubik's Cube : à l'aveugle, Cube 4x4x4 : à l'aveugle, Cube 5x5x5 : à l'aveugle, et Rubik's Cube : résolution multiple à l'aveugle.
         - 9b3a) Les formats des tours pour ces épreuves sont : "Meilleur des X" (où X est 1, 2, ou 3).
-        - 9b3b) Pour le Rubik's Cube : à l'aveugle, la WCA prend également en compte le classement pour le format "Moyenne des 3", en se basant sur les temps des tours au format "Meilleur des 3".
+        - 9b3b) Pour le Rubik's Cube : à l'aveugle, la WCA prend également en compte les temps des tours au format "Meilleur des 3" pour le classement et les records au format "Moyenne des 3".
 - 9f) Les résultats pour un tour sont calculés comme suit :
     - 9f1) Tous les résultats chronométrés inférieurs à 10 minutes sont mesurés et tronqués au centième près. Toutes les moyennes chronométrées inférieures à 10 minutes sont mesurées et arrondies au centième près.
     - 9f2) Tous les résultats et moyennes chronométrés supérieurs à 10 minutes sont mesurés et arrondis à la seconde près (x.4 devient x, et x.5 devient x+1).
@@ -250,11 +250,11 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
     - 9f12) Pour les tours au format "Meilleur des X", le classement est basé sur le meilleur résultat pour chaque compétiteur. Les résultats sont comparés selon les règles suivantes :
         - 9f12a) Pour les résultats chronométrés, "meilleur" est défini comme un temps plus court.
         - 9f12b) Pour la résolution optimisée, "meilleur" est défini comme une solution plus courte.
-        - 9f12c) Pour la résolution multiple à l'aveugle, le classement est ordonné selon la soustraction du nombre de casse-tête résolus par le nombre de casse-tête non résolus (DNF), plus ce résultat est grand, meilleur il est. Si ce nombre est strictement négatif, ou si 1 seul casse-tête est résolu, l'essai n'est pas considéré résolu (DNF). Si plusieurs compétiteurs obtiennent le même résultat, le classement est ordonné selon le temps total de l'essai, où le plus court temps est le meilleur. Si plusieurs compétiteurs obtiennent le même résultat et le même temps, le classement est ordonné selon le nombre de casse-tête non résolus, plus ce nombre est petit, meilleur il est.
+        - 9f12c) Pour la résolution multiple à l'aveugle, le classement est ordonné selon la soustraction du nombre de casse-têtes résolus par le nombre de casse-têtes non résolus, plus ce résultat est grand, meilleur il est. Si ce nombre est strictement négatif, ou si 1 seul casse-tête est résolu, l'essai n'est pas considéré résolu (DNF). Si plusieurs compétiteurs obtiennent le même résultat, le classement est ordonné selon le temps total de l'essai, où le plus court temps est le meilleur. Si plusieurs compétiteurs obtiennent le même résultat et le même temps, le classement est ordonné selon le nombre de casse-têtes non résolus, plus ce nombre est petit, meilleur il est.
     - 9f13) Pour les tours au format "Moyenne des 3" et "Moyenne élaguée des 5", le classement est ordonné selon la moyenne des compétiteurs, ou la meilleure est la plus petite calculée.
     - 9f14) Pour les tours au format "Moyenne des 3" et "Moyenne élaguée des 5", si deux compétiteurs ou plus obtiennent la même moyenne, le classement est ordonné selon le meilleur essai pour chaque compétiteur, où le meilleur est le temps le plus court.
     - 9f15) Les compétiteurs obtenant le même résultat pour un tour obtiennent le même classement pour ce tour.
-- 9g) Un tour combiné se déroule en deux phases d'essais, où les compétiteur sont qualifiés pour la seconde phase si ils effectuent un essai en dessous de la limite au cours de la première phase.
+- 9g) Un tour combiné se déroule en deux phases d'essais, où les compétiteur sont qualifiés pour la seconde phase s'ils effectuent un essai en dessous de la limite au cours de la première phase.
     - 9g2) Le fait qu'un compétiteur soit qualifié pour la phase suivante du tour combiné doit se décider en fonction de son classement (les x meilleurs compétiteurs) ou en fonction de son résultat (tous les compétiteurs ayant un résultat en dessous de x) lors de la première phase.
 - 9i) Les résultats des compétitions officielles de la WCA doivent apparaître dans le classement mondial de la WCA.
     - 9i1) La WCA reconnait les records régionaux à différents niveaux : records nationaux, records continentaux, et records mondiaux.
@@ -281,16 +281,16 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
 - 10c) À la fin de la résolution, le casse-tête peut être dans une orientation quelconque.
 - 10d) Chaque pièce du casse-tête doit être complètement attachée au casse-tête, dans la position requise. Exceptions : voir la [règle 5b5](regulations:regulation:5b5).
 - 10e) Un casse-tête est résolu lorsque toutes les parties colorées sont restaurées à leur état initial, et que toutes ses parties sont alignées dans certaines limites spécifiées ci-dessous :
-    - 10e1) Si deux parties adjacentes d'un casse-tête (par exemple, deux tranches adjacentes parallèles d'un cube) créent un écart d'alignement excédant la limite décrite dans la [règle 10f](regulations:regulation:10f), on considère alors qu'un mouvement est nécessaire pour les aligner (voir : "Outer Block Turn Metric" dans l'[Article 12](regulations:article:12)).
+    - 10e1) Si deux parties adjacentes d'un casse-tête (par exemple : deux tranches adjacentes parallèles d'un cube) créent un écart d'alignement excédant la limite décrite dans la [règle 10f](regulations:regulation:10f), on considère alors qu'un mouvement est nécessaire pour les aligner (voir : "Outer Block Turn Metric" dans l'[Article 12](regulations:article:12)).
     - 10e2) Si aucun mouvement n'est nécessaire pour résoudre le casse-tête, le casse-tête est considéré comme étant résolu, sans pénalité.
     - 10e3) Si un mouvement est nécessaire, le casse-tête est considéré comme étant résolu, avec une pénalité de temps (+2 secondes).
     - 10e4) Si plus d'un mouvement est nécessaire, le casse-tête n'est pas considéré comme résolu (DNF).
-- 10f) Limites de désalignement pour les casse-tête :
+- 10f) Limites de désalignement pour les casse-têtes :
     - 10f1) Cubes NxNxN : au plus 45 degrés.
     - 10f2) Megaminx : au plus 36 degrés.
     - 10f3) Pyraminx et Skewb : au plus 60 degrés.
     - 10f4) Square-1 : au plus 45 degrés (U/D) ou 90 degrés (/).
-- 10h) Les casse-tête non couverts par cet article sont jugés selon l'état résolu communément admis du casse-tête, en appliquant les règles correspondantes du Rubik's Cube.
+- 10h) Les casse-têtes non couverts par cet article sont jugés selon l'état résolu communément admis du casse-tête.
     - 10h1) Le Clock est dans un état résolu lorsque les dix-huit horloges sont pointées sur midi.
 
 
@@ -298,20 +298,20 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
 
 - 11a) Les incidents sont :
     - 11a1) Une exécution incorrecte des procédures propres aux épreuves, par les officiels ou les compétiteurs.
-    - 11a2) Des interférences ou des distractions (telle qu'une coupure de courant ou le déclenchement d'une alarme).
+    - 11a2) Des interférences ou des distractions (par exemple : coupure de courant, déclenchement d'une alarme).
     - 11a3) Un équipement défectueux.
 - 11b) Si un incident se produit, le Délégué WCA détermine de manière appropriée et impartiale la marche à suivre.
 - 11d) Si le Règlement WCA n'est pas totalement clair, ou si l'incident n'est pas couvert par le Règlement WCA, alors le Délégué WCA doit prendre sa décision dans le sens de la sportivité (voir aussi : [règle 11e3](regulations:regulation:11e3)).
-- 11e) Si un incident se produit au cours d'un essai, le Délégué WCA peut accorder à un compétiteur un essai supplémentaire remplaçant l'essai au cours duquel l'incident a eu lieu. Le compétiteur doit faire sa demande oralement ou par écrit au juge et au Délégué WCA, au moment de l'incident et avant de terminer son essai, afin de pouvoir se voir accorder un essai supplémentaire. Effectuer une demande ne garantie pas que celle-ci aboutira à un essai supplémentaire.
+- 11e) Si un incident se produit au cours d'un essai, le Délégué WCA peut accorder à un compétiteur un essai supplémentaire remplaçant l'essai au cours duquel l'incident a eu lieu. Le compétiteur doit faire sa demande oralement ou par écrit au juge et au Délégué WCA, au moment de l'incident et avant de terminer son essai, afin de pouvoir se voir accorder un essai supplémentaire. Effectuer une demande ne garantit pas que celle-ci aboutira à un essai supplémentaire.
     - 11e1) Si un compétiteur se voit accorder un essai supplémentaire, celui-ci doit être réalisé à partir d'une séquence de mélange différente de l'originale. Cette séquence doit être générée à partir de la version officielle du mélangeur officiel de la WCA (voir la [règle 4f](regulations:regulation:4f)).
-    - 11e2) Si un compétiteur reçoit un essai supplémentaire, cet essai supplémentaire devrait être effectué directement après l'essai qui l'a causé, et doit remplacer l'essai original qui l'a causé.
-    - 11e3) S'il n'est pas certain qu'un incident devrait donner lieu à un essai supplémentaire, le compétiteur peut se voir attribuer un essai supplémentaire provisoire, qui ne sera utilisé que s'il se trouve que l'essai supplémentaire était approprié (par exemple par décision du Comité Réglementaire de la WCA).
+    - 11e2) Si un compétiteur se voit accorder un essai supplémentaire, cet essai supplémentaire devrait être effectué directement après l'essai qui l'a causé, et devra remplacer l'essai original.
+    - 11e3) S'il n'est pas certain qu'un incident devrait donner lieu à un essai supplémentaire, le compétiteur peut se voir attribuer un essai supplémentaire provisoire, qui ne sera utilisé que s'il se trouve que l'essai supplémentaire était approprié (par exemple : par décision du Comité Réglementaire de la WCA).
 - 11f) Les décisions à propos d'un incident peuvent être justifiées à l'aide d'une analyse photo ou vidéo, à la discrétion du Délégué WCA.
 
 
 ## <article-12><notation><notation> Article 12 : Notation
 
-- 12a) Notation pour tous les casse-tête NxNxN :
+- 12a) Notation pour tous les casse-têtes NxNxN :
     - 12a1) Mouvements de face :
         - 12a1a) Sens horaire, 90 degrés : F (face de devant), B (face du fond), R (face de droite), L (face de gauche), U (face du haut), D (face du bas).
         - 12a1b) Sens anti-horaire, 90 degrés : F', B', R', L', U', D'.
@@ -323,7 +323,7 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
     - 12a3) La métrique OBTM (Outer Block Turn Metric) est définie ainsi :
         - 12a3a) Chaque mouvement des catégories "Mouvements de face" et "Mouvements de tranches multiples" compte pour 1 mouvement.
         - 12a3b) Chaque rotation compte pour 0 mouvements.
-- 12b) Rotations pour les casse-tête NxNxN :
+- 12b) Rotations pour les casse-têtes NxNxN :
     - 12b1) Sens horaire, 90 degrés : [f] ou z, [b] ou z', [r] ou x, [l] ou x', [u] ou y, [d] ou y'.
     - 12b2) Sens anti-horaire, 90 degrés : [f'] ou z', [b'] ou z, [r'] ou x', [l'] ou x, [u'] ou y', [d'] ou y.
     - 12b3) 180 degrés : [f2] ou z2, [b2] ou z2, [r2] ou x2, [l2] ou x2, [u2] ou y2, [d2] ou y2.
@@ -510,10 +510,10 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H : Résolution multiple à l'aveugle
 
 - H1) Les procédures standards pour la résolution à l'aveugle s'appliquent comme décrites dans l'[Article B](regulations:article:B) (Résolution à l'aveugle). Les règles supplémentaires qui remplacent les procédures correspondantes dans l'[Article B](regulations:article:B) sont décrites ci-après.
-    - H1a) Avant un essai, le compétiteur doit donner à l'équipe organisatrice le nombre de casse-tête (au moins 2) qu'il désire résoudre.
-        - H1a1) Le compétiteur ne peut modifier le nombre de casse-tête à résoudre après l'avoir donné à l'équipe organisatrice.
-        - H1a2) Un compétiteur peut demander que son nombre de casse-tête soit tenu secret jusqu'à ce que tous les compétiteurs aient donné le leur. Quand tous les compétiteurs ont donné leur nombre de casse-tête, cette information devient publique (un compétiteur peut par exemple demander, avant de démarrer son essai, combien de casse-tête va tenter un autre compétiteur).
-    - H1b) Si un compétiteur tente moins de 6 casse-tête il dispose d'un temps de 10 minutes par casse-tête, sinon le temps maximum de l'essai est 60 minutes.
+    - H1a) Avant un essai, le compétiteur doit donner à l'équipe organisatrice le nombre de casse-têtes (au moins 2) qu'il désire résoudre.
+        - H1a1) Le compétiteur ne peut modifier le nombre de casse-têtes à résoudre après l'avoir donné à l'équipe organisatrice.
+        - H1a2) Un compétiteur peut demander que son nombre de casse-têtes soit tenu secret jusqu'à ce que tous les compétiteurs aient donné le leur. Quand tous les compétiteurs ont donné leur nombre de casse-têtes, cette information devient publique (un compétiteur peut par exemple demander, avant de démarrer son essai, combien de casse-têtes va tenter un autre compétiteur).
+    - H1b) Si un compétiteur tente moins de 6 casse-têtes il dispose d'un temps de 10 minutes par casse-tête, sinon le temps maximum de l'essai est 60 minutes.
         - H1b1) Le compétiteur peut signaler la fin de l'essai à tout moment. Si et quand la limite de temps maximum est atteinte, le juge arrête l'essai et inscrit le résultat. La limite de temps maximum pour l'essai représente le temps par défaut enregistré pour l'essai.
     - H1d) Les pénalités de temps pour chaque casse-tête de l'essai sont cumulatives.
     - H1e) L'utilisation du chronomètre Stackmat est optionnelle pour la mesure du temps.
@@ -524,7 +524,7 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
 L'équipe organisatrice peut décider d'appliquer des règles optionnelles pour faciliter l'organisation de la compétition.
 Le Bureau de la WCA doit approuver l'application des règles optionnelles dans une compétition.
 
-- Z1) L'équipe organisatrice peut demander aux compétiteurs de fournir leurs casse-tête au moment de l'inscription.
+- Z1) L'équipe organisatrice peut demander aux compétiteurs de fournir leurs casse-têtes au moment de l'inscription.
 - Z2) L'équipe organisatrice peut limiter le nombre d'épreuves par compétiteur.
 - Z3) L'équipe organisatrice peut sélectionner les compétiteurs qualifiés d'office pour certains tours de certaines épreuves, sur la base des résultats de compétitions précédantes données.
 - Z4) L'équipe organisatrice peut limiter le nombre de compétiteurs par épreuve ou par compétition, en se basant soit sur une politique du "premier arrivé, premier servi", ou sur les temps de qualification, ou sur la position dans le classement mondial de la WCA à une date annoncée avant la compétition.
